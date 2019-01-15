@@ -1,0 +1,4 @@
+"name","link","username","password","year","grape","rating","comments"
+"$2 chuck","https://abc.com","myusername","mypassword","2015","Merlot","3","Nice for the price"
+"$2.75 burger","","discount@macdonnald.com","U2FsdGVkX1/UMMi1qBwR9d0Sc78LTOZvKcAkO+y1J1A=","2019","Merlot","4","Nice for the price"
+
